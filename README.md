@@ -8,7 +8,7 @@
     - [Term Dates](#term-dates)
     - [Term 1](#term-1)
     - [Term 2](#term-2)
-- [Term 3:  Exams](#term-3-exams)
+    - [Term 3:  Exams](#term-3-exams)
 - [Principles of Programming](#principles-of-programming)
     - [C](#c)
     - [Haskell](#haskell)
@@ -106,7 +106,7 @@ W/O: Monday 17 February 2025
 - Algorithms
 - Design & Professional Skills **Term 1 and Term 2**
 
-# Term 3:  Exams
+## Term 3:  Exams
 
 ![f897a12db007bf9d50ea7a0f9082e60f.png](f897a12db007bf9d50ea7a0f9082e60f.png)
 
