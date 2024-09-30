@@ -197,11 +197,13 @@ W/O: Monday 17 February 2025
 &nbsp;
 
 # Algorithms
+[Notes](https://liveuclac-my.sharepoint.com/:f:/r/personal/zcabiga_ucl_ac_uk/Documents/Year%201/Term%202/Algorithms/Notes?csf=1&web=1&e=X8aeGa)
 
 - Expectation to learn content outside of lectures, and do problems in the lectures
 - If possible, learn the content every week so that you understand what's going on in the lectures
 
 # Theory of Computation
+[Notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcabiga_ucl_ac_uk/Ejl37Jn69j5BuW9BoYKgspcBi3y3E8CSdzntqpKC6pZmJA?e=bQPXwR)
 
 ## Logic
 
@@ -210,7 +212,7 @@ W/O: Monday 17 February 2025
 ## Automata
 
 # Introductory Mathematics
-
+[Notes](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcabiga_ucl_ac_uk/EhSHwCWtUMFClDP8p-ALUZABuj_ASy3ivcuODlmC82OynA?e=XP0XEf)
 - Each week is a new topic
 - Can assume the exam is around the difficulty of the middle or middle-end of worksheet questions
 
