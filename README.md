@@ -26,8 +26,6 @@
 - [Introductory Mathematics](#introductory-mathematics)
 - [Contact me:](#contact-me)
 
-# [CV Top Tips](CV_Top_Tips.md)
-
 # Learning and Exam Resources:
 
 ## Top Tips
