@@ -53,27 +53,3 @@
 
 - pre-condition: certain conditions that should be satisfied before the execution of some code.
 
-- GCC COMPILATION PROCESS:
-
-- C Source Files are sent to the Pre-Processor
-    
-- The Pre-Processor handles #include and #define
-    
-- Then Object file .0 contains the binary code compiled from the source file
-    
-- Then Linker combines object files into single executable program
-    
-
-- Resolves addresses of function and variables
-
-- VIRTUAL MEMORY:
-
-- Memory management technique that allows programs to access more memory than is physically available. Memory is divided into pages (segments) A Memory Management Unit (MMU) maps virtual addresses to physical addresses. - a virtual page is allocated to a physical page Processes have to be mapped into physical memory to run. But there can be many more virtual pages than available physical pages.
-
-- Pages not currently needed can be swapped to disk - And reloaded when needed.
-
-- Static:
-
-- A static variable inside a function keeps its value between invocations.
-
-- A static global variable or a function is "seen" only in the file it's declared in
